@@ -17,6 +17,7 @@ function App() {
             <button>Order Now</button>
           </div>
         </div>
+        <button>Order Now</button>
 
       {/* Dish Image : https://shorturl.at/qBDG2 */}
 
